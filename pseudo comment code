@@ -1,0 +1,14 @@
+// Jason Pugliano -Creator 
+//Party app. Plays music for one minute then plays tone signaling que to drink. Then plays next song for one minute
+
+//Design GUI 
+
+//encapsulate various steaming services- Prime Music, Spotify, YouTube, Google Play Music, Deezer etc. 
+
+// user input (touchscreen) select appropriate streaming service 
+// sign in 
+// select playlist 
+// set timer one minute 
+//after one minute open file  - play generic tone signaling players to drink
+// play next song 
+// repeat til close or end of play list 
