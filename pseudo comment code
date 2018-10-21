@@ -9,6 +9,10 @@
 //Design GUI 
 
 //encapsulate various steaming services- Prime Music, Spotify, YouTube, Google Play Music, Deezer etc. 
+// https://newpipe.schabi.org/ - encapsulate this for youtube? contact owners and request to add clocked playlist feature
+
+//other open source clents? look up spotify prime music etc...
+
 
 // user input (touchscreen) select appropriate streaming service 
 // sign in 
